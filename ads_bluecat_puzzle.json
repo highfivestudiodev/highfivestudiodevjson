@@ -1,0 +1,31 @@
+{
+  "pub_id": "",
+  "app_id": "ca-app-pub-4941401631517809~9557245450",
+  "admob_banner_id": "ca-app-pub-4941401631517809/9123146825",
+  "admob_interstitial_id": "ca-app-pub-4941401631517809/1318461380",
+  "admob_native_id": "ca-app-pub-4941401631517809/6655576210",
+  "admob_rewarded_id": "ca-app-pub-4941401631517809/9005379716",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "bluecat",
+  "admob_hpk_3": "fashion",
+  "admob_hpk_4": "healthy",
+  "admob_hpk_5": "cartoon",
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+  "startapp_app_id": "",
+  "unity_id": "4199891",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "unity_rewarded": "Rewarded_Android",
+  "interstitial_inverval": 5,
+  "primary_ads": "ADMOB",
+  "list_ads": [
+      "ADMOB"
+    ],
+  "albums": [
+      "bluecat1"
+  ]
+}
