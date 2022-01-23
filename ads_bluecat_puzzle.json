@@ -1,10 +1,10 @@
 {
   "pub_id": "",
-  "app_id": "ca-app-pub-4941401631517809~9557245450",
-  "admob_banner_id": "ca-app-pub-4941401631517809/9123146825",
-  "admob_interstitial_id": "ca-app-pub-4941401631517809/1318461380",
-  "admob_native_id": "ca-app-pub-4941401631517809/6655576210",
-  "admob_rewarded_id": "ca-app-pub-4941401631517809/9005379716",
+  "app_id": "ca-app-pub-6556970222421567~6711517506",
+  "admob_banner_id": "ca-app-pub-6556970222421567/4592303393",
+  "admob_interstitial_id": "ca-app-pub-6556970222421567/3279221725",
+  "admob_native_id": "ca-app-pub-6556970222421567/1966140051",
+  "admob_rewarded_id": "ca-app-pub-6556970222421567/9932259980",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
   "admob_hpk_1": "insurance",
@@ -23,7 +23,8 @@
   "interstitial_inverval": 5,
   "primary_ads": "ADMOB",
   "list_ads": [
-      "ADMOB"
+      "ADMOB",
+      "UNITY"
     ],
   "albums": [
       "bluecat1"
