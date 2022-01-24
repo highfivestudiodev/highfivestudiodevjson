@@ -1,0 +1,35 @@
+{
+  "username": "hendrikpm98",
+  "new_username": "hendrikpm98/stitch-wallpaper",
+  "section_mode": true,
+  "album": [
+    "stitch"
+  ],
+  "init_jumlah_photo": 250,
+  "pub_id": "pub-4672402917535118",
+  "app_id": "ca-app-pub-4672402917535118~9493144153",
+  "admob_banner_id": "ca-app-pub-4672402917535118/6365591396",
+  "admob_interstitial_id": "ca-app-pub-4672402917535118/2927735801",
+  "admob_native_id": "ca-app-pub-4672402917535118/6203453602",
+  "admob_rewarded_id": "",
+
+  "admob_hpk_1": "sticth",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "blue koala",
+  "admob_hpk_4": "luxury car",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "startapp_app_id": "",
+
+  "interstitial_inverval": 3,
+
+  "primary_ads": "ADMOB",
+
+  "list_ads": [
+    "ADMOB"
+  ]
+}
