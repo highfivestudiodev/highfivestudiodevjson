@@ -7,10 +7,10 @@
   ],
   "init_jumlah_photo": 250,
   "pub_id": "pub-4672402917535118",
-  "app_id": "ca-app-pub-1872733443931228~3940995881",
-  "admob_banner_id": "ca-app-pub-4941401631517809/7936403254",
-  "admob_interstitial_id": "ca-app-pub-4941401631517809/5104008746",
-  "admob_native_id": "ca-app-pub-4941401631517809/4934835398",
+  "app_id": "ca-app-pub-2645249444311791~8572823343",
+  "admob_banner_id": "ca-app-pub-2645249444311791/7618834325",
+  "admob_interstitial_id": "ca-app-pub-2645249444311791/1991103127",
+  "admob_native_id": "ca-app-pub-2645249444311791/4888729203",
   "admob_rewarded_id": "",
 
   "admob_hpk_1": "sticth",
@@ -26,6 +26,7 @@
   "primary_ads": "ADMOB",
 
   "list_ads": [
+    "ADMOB",
     "UNITY",
     "STARTAPP"
   ],
