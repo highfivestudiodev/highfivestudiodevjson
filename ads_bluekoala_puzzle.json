@@ -1,0 +1,29 @@
+{
+  "username_board": "nhali1233/stitch",
+  "albums": [
+    "puzzle1"
+  ],
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "ca-app-pub-2645249444311791/9712770342",
+  "admob_interstitial_id": "ca-app-pub-2645249444311791/4951398255",
+  "admob_native_id": "ca-app-pub-2645249444311791/8941532588",
+  "admob_rewarded_id": "ca-app-pub-2645249444311791/7365012441",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "bluekoala",
+  "admob_hpk_3": "fashion",
+  "admob_hpk_4": "healthy",
+  "admob_hpk_5": "stitch",
+  "startapp_app_id": "",
+  "unity_id": "1234567",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "unity_rewarded": "Rewarded_Android",
+  "interstitial_inverval": 5,
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB"
+  ]
+}
