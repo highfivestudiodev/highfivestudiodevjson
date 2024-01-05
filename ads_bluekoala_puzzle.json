@@ -17,13 +17,13 @@
   "admob_hpk_4": "healthy",
   "admob_hpk_5": "stitch",
   "startapp_app_id": "",
-  "unity_id": "1234567",
+  "unity_id": "5517429",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "unity_rewarded": "Rewarded_Android",
   "interstitial_inverval": 5,
-  "primary_ads": "ADMOB",
+  "primary_ads": "UNITY",
   "list_ads": [
-    "ADMOB"
+    "UNITY"
   ]
 }
