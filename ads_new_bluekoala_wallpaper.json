@@ -8,10 +8,11 @@
   "init_jumlah_photo": 250,
   "pub_id": "pub-4672402917535118",
   "app_id": "ca-app-pub-2645249444311791~8572823343",
-  "admob_banner_id": "ca-app-pub-3248103661688932/8131772276",
-  "admob_interstitial_id": "ca-app-pub-3248103661688932/2879445591",
+  "admob_banner_id": "ca-app-pub-6556970222421567/7466124109",
+  "admob_interstitial_id": "ca-app-pub-6556970222421567/7688667141",
   "admob_native_id": "",
-  "admob_rewarded_id": "",
+  "admob_rewarded_id": "ca-app-pub-6556970222421567/1622770489",
+  "admob_open_app_id": "ca-app-pub-6556970222421567/6153042436",
 
   "admob_hpk_1": "sticth",
   "admob_hpk_2": "fashion",
@@ -26,10 +27,16 @@
   "primary_ads": "UNITY",
 
   "list_ads": [
+    "ADMOB",
+    "APPLOVIN",
     "UNITY"
   ],
   
   "unity_id": "5405022",
   "unity_banner": "Android_Banner",
-  "unity_interstitial": "Android_Interstitial"
+  "unity_interstitial": "Android_Interstitial",
+
+  "applovin_sdk_key": "crI7e1z8XtkKm_3Gsp4q9ls8PvV0atxi2hPQOpfAaJgI1c7e7hiSK2dCO8anXCzezaOJh6BnUZmDcblQTC0JAw",
+  "applovin_banner_id":"7e8a1a28941a1f79",
+  "applovin_inter_id":"6c20618ea85a88bc"
 }
