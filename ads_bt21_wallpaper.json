@@ -1,0 +1,40 @@
+{
+  "username": "hendrikpm98",
+  "new_username": "hendrikpm98/bt-wallpaper",
+  "section_mode": true,
+  "album": [
+    "bt"
+  ],
+  "init_jumlah_photo": 400,
+  "pub_id": "",
+  "app_id": "ca-app-pub-5768616473271728~8493598846",
+  "admob_banner_id": "ca-app-pub-5768616473271728/6630401578",
+  "admob_interstitial_id": "ca-app-pub-5768616473271728/1896949647",
+  "admob_native_id": "",
+  "admob_rewarded_id": "",
+  "admob_open_app_id": "",
+
+  "admob_hpk_1": "bt21",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "bts",
+  "admob_hpk_4": "luxury car",
+  "admob_hpk_5": "insurance",
+
+  "startapp_app_id": "",
+
+  "interstitial_inverval": 5,
+
+  "primary_ads": "ADMOB",
+
+  "list_ads": [
+    "ADMOB"
+  ],
+  
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
