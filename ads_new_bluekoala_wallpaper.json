@@ -27,9 +27,9 @@
   "primary_ads": "UNITY",
 
   "list_ads": [
+    "APPLOVIN",
     "ADMOB",
-    "UNITY",
-    "APPLOVIN"
+    "UNITY"
   ],
   
   "unity_id": "5405022",
