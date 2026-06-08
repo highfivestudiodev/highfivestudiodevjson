@@ -27,8 +27,8 @@
   "primary_ads": "UNITY",
 
   "list_ads": [
-    "ADMOB",
     "UNITY",
+    "ADMOB",
     "APPLOVIN"
   ],
   
