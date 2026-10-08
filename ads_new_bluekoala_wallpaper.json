@@ -23,7 +23,7 @@
   "startapp_app_id": "208391674",
 
   "interstitial_inverval": 1,
-  "list_detail_interstitial_interval": 2,
+  "list_detail_interstitial_interval": 10,
 
   "primary_ads": "UNITY",
 
